@@ -1,0 +1,7 @@
+body {
+    background-color: #f5f5f5;
+}
+
+.radial-blue {
+    background: radial-gradient(lightyellow, skyblue);
+}
