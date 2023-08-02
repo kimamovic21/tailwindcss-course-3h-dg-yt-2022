@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/tailwindcss-course-3h-dg-yt-2022/static/css/main.8e71620d.css",
+    "main.js": "/tailwindcss-course-3h-dg-yt-2022/static/js/main.b0a9c295.js",
+    "static/media/rocketman.png": "/tailwindcss-course-3h-dg-yt-2022/static/media/rocketman.9ea1808f71838065eaf1.png",
+    "static/media/rocketdab.png": "/tailwindcss-course-3h-dg-yt-2022/static/media/rocketdab.46251baa1a4a4d4992c6.png",
+    "static/media/rocketlaunch.png": "/tailwindcss-course-3h-dg-yt-2022/static/media/rocketlaunch.d0ca838139eae5513ad7.png",
+    "static/media/rocketride.png": "/tailwindcss-course-3h-dg-yt-2022/static/media/rocketride.c150fbb64bd413ab1460.png",
+    "index.html": "/tailwindcss-course-3h-dg-yt-2022/index.html",
+    "main.8e71620d.css.map": "/tailwindcss-course-3h-dg-yt-2022/static/css/main.8e71620d.css.map",
+    "main.b0a9c295.js.map": "/tailwindcss-course-3h-dg-yt-2022/static/js/main.b0a9c295.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e71620d.css",
+    "static/js/main.b0a9c295.js"
+  ]
+}
