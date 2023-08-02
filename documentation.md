@@ -29,3 +29,16 @@ Chapter 3: Project Pseudo-Classes, Forms & Footer
 -u komponentu Testimonial.jsx dodajemo props
 -u Contact.jsx komponenti kreiramo form element
 -kreiramo Footer.jsx komponentu
+
+
+Chapter 4: Animated mobile menu & Hamburger Icon
+-kreiramo useEffect() React hook
+-u useEffect() callback funkciji kreiramo hamburgerButton i mobileMenu varijable
+-u callback funkciji kreiramo toggleMenu() funkciju
+-varijablama hamburgerButton i mobileMenu dodajemo addEventListener
+-document objektu dodajemo addEventListener
+-https://bobbyhadz.com/blog/react-functional-component-add-event-listener
+
+
+Chapter 5: Theme Config & Deploy to the Web
+-
